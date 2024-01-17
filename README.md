@@ -1,7 +1,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://openseauserdata.com/files/4275a8ea8fcdc953f7a7c5cfd4351035.gif"  />
+  <img height="200" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-boy-2.gif"  />
 </div>
 
 ## 🌐 Socials:
