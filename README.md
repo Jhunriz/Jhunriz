@@ -1,7 +1,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://openseauserdata.com/files/4275a8ea8fcdc953f7a7c5cfd4351035.gif"  />
 </div>
 
 ## 🌐 Socials:
