@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=PROPUTA;JHUNRIZ)](https://git.io/typing-svg)
 
 ###
-![Logo](https://www.canva.com/design/DAF6gRcEnLE/_Ox68mL1-5zTvzmmV617CA/edit)
+![Logo](https://drive.google.com/drive/u/0/my-drive)
 
 ###
 <div align="center">
