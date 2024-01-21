@@ -2,7 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=PROPUTA;JHUNRIZ)](https://git.io/typing-svg)
 
 ###
-![Logo](https://drive.google.com/drive/u/0/my-drive)
+<div align="center">
+  <img height="200" src="https://drive.google.com/file/d/1U6TFk-WPUyD6fiiyEBELDZVw2uYlun8E/view?usp=drive_link"  />
+</div>
 
 ###
 <div align="center">
