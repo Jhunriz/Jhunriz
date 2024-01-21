@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=PROPUTA;JHUNRIZ)](https://git.io/typing-svg)
 
 ###
-![Logo](https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.30808-6/420507598_3724388611139893_3792978422419590671_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=3635dc&_nc_ohc=fmQoMLHpgPcAX8E1W8r&_nc_ht=scontent.fmnl17-1.fna&oh=00_AfCu0U7owaf3n1vUWL6Ci_u2TozswDeX3WuoX9V3Y2LKwg&oe=65B25010)
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 ###
 <div align="center">
