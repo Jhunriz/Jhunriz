@@ -2,9 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=PROPUTA;JHUNRIZ)](https://git.io/typing-svg)
 
 ###
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-###
 <div align="center">
   <img height="200" src="
 ###
@@ -28,5 +25,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Jhunriz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->"  />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->"
 </div>
