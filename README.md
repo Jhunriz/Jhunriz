@@ -6,7 +6,7 @@
   <img height="200" src="
 ###
 <div align="center">
-  <img height="200" src="https://64.media.tumblr.com/785a87d4786696c79fa4b27a3a8237ca/950b7601820380b1-cc/s540x810/a2e01abfe5d94f39a92723382b64ba8a6d67a10e.gif"  />
+  <img height="200" src="https://e0.pxfuel.com/wallpapers/972/62/desktop-wallpaper-programming-minimalist-computer-science.jpg"  />
 </div>
 
 ## 🌐 Socials:
