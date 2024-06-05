@@ -6,7 +6,7 @@
   <img height="200" src="
 ###
 <div align="center">
-  <img height="200" src="https://e0.pxfuel.com/wallpapers/972/62/desktop-wallpaper-programming-minimalist-computer-science.jpg"  />
+  <img height="200" src="https://getwallpapers.com/wallpaper/full/5/4/b/1086815-top-programmer-wallpapers-1920x1080.jpg"  />
 </div>
 
 ## 🌐 Socials:
