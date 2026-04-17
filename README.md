@@ -20,11 +20,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jhunriz&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhunriz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🧑‍💻Random Cyber Quote
-![](https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jhunriz&icon=0&color=0)](https://visitcount.itsvg.in)
