@@ -1,14 +1,6 @@
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FullStack-Developer;JHUNRIZ)](https://git.io/typing-svg)
 
-###
-<div align="center">
-  <img height="200" src="
-###
-<div align="center">
-  <img height="200" src="https://getwallpapers.com/wallpaper/full/5/4/b/1086815-top-programmer-wallpapers-1920x1080.jpg"  />
-</div>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jhunriz-b-lalata-036a6b272/) 
 
